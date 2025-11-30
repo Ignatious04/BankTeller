@@ -30,23 +30,23 @@ namespace BankTeller
                 int pin = Convert.ToInt32(txtPin.Text);
                 bool isValid = _validation.ValidatePIN(pin);
 
-                if (isValid)
+                if (_attempts > 1)
                 {
-                    MainForm mainForm = new MainForm();
-                    mainForm.Show();
-                    this.Hide();
-                }
-                else
-                {
-                    if (_attempts > 1)
+                    if (isValid)
+                    {
+                        MainForm mainForm = new MainForm();
+                        mainForm.Show();
+                        this.Hide();
+                    }
+                    else
                     {
                         _attempts--;
                         lblMessage.Text = "Invalid PIN (You have " + _attempts + " attempt(s)).";
                     }
-                    else
-                    {
-                        lblMessage.Text = "Sorry, we cannot process your request at the moment.";
-                    }
+                }
+                else
+                {
+                    lblMessage.Text = "Sorry, we cannot process your request at the moment.";
                 }
             }
             else
