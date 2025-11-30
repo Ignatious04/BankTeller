@@ -1,0 +1,16 @@
+C:\Adam\Programming\C#\BankTeller\BankTeller\bin\Release\BankTeller.exe.config
+C:\Adam\Programming\C#\BankTeller\BankTeller\bin\Release\BankTeller.exe
+C:\Adam\Programming\C#\BankTeller\BankTeller\bin\Release\BankTeller.pdb
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.csproj.AssemblyReference.cache
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.Properties.Resources.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.User_Interface_Layer.BalanceForm.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.User_Interface_Layer.DepositForm.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.MainForm.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.VerificationForm.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.User_Interface_Layer.ViewTransactionsForm.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.User_Interface_Layer.WithdrawForm.resources
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.csproj.GenerateResource.cache
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.csproj.CoreCompileInputs.cache
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.exe
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.pdb
+C:\Adam\Programming\C#\BankTeller\BankTeller\obj\Release\BankTeller.exe.config
